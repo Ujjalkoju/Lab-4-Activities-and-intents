@@ -1,5 +1,5 @@
 # Lab4: Activities and intents
-### Task2: Create and launch the second Activity
-![](./task2a.jpg)
-![](./task2b.jpg)
+### Task3: Send data from the main Activity to the second Activity
+![](./task3a.jpg)
+![](./task3b.jpg)
 
