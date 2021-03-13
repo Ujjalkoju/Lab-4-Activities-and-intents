@@ -1,7 +1,41 @@
 <resources>
     <string name="app_name">TwoActivities</string>
-    <string name="send">SEND</string>
-    <string name="activity2_name">Second Activity</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter Your Message Here</string>
+    <string name="article">ArticlesActivity</string>
+
+    <string name="article_title">About Mo:Mo</string>
+    <string name="article_title1">About Chow mein</string>
+    <string name="article_title2">About Pizza</string>
+    <string name="article_MoMo"> <i><b>Mo:Mo</b></i> \n\n Mo:mo is a type of East and South Asian steamed filled dumpling. Momos are native to Nepal, Southwest Tibet, Bhutan as well as North Indian region of Ladakh, Northeast Indian regions of Sikkim, Assam, and Arunachal Pradesh, and East Indian region of Darjeeling.\n\n
+        The history of momo in Nepal dates back to as early as the fourteenth century. Momo was initially a Newari food in the Katmandu valley. It was later introduced to Tibet, China and as far away as Japan by a Nepalese princess who was married to a Tibetan king in the late fifteenth century.\n\n
+        The history of momo in Nepal dates back to as early as the fourteenth century. Momo was initially a Newari food in the Katmandu valley. It was later introduced to Tibet, China and as far away as Japan by a Nepalese princess who was married to a Tibetan king in the late fifteenth century.\n\n
+        Yes, this recipe is good for diabetics, heart and weight loss. Whole wheat flour is used to make momos, excellent for diabetics as they will not shoot up your blood sugar levels as they are a low GI food. Can healthy individuals have Healthy Momos? Yes\n\n
+        Momos are a kind of dumpling popular in Nepal, Sikkim and Tibet, and are similar to Chinese potstickers. Momos are made of a simple flour and water dough. White flour is generally preferred, and sometimes a little yeast or baking soda is added to give a more doughy texture to the finished product.\n\n
+       <b> Food energy (per serving)</b>: 350 to 1000 (35 to 100 per piece) kcal \n\n
+<b>Associated national cuisine</b>: Nepal, India, Bhutan\n\n
+<b>Created by</b>: Tibetan people or Himalayan Nepali Newar merchants\n\n
+<b>Course</b>: Appetizers or entrees\n\n
+<b>Place of origin</b>: Nepal, Tibet, East Asia, Southern Asia\n\n
+<b>Main ingredients</b>: Chicken, Vegetable, Meat, Wheat Flour, Garlic\n\n
+    </string>
+        <string name="article_Chowmein"><i><b>Chow mein</b></i> \n\n Chow mein are Chinese stir-fried noodles with vegetables and sometimes meat or tofu; the name is a romanization of the Taishanese. The dish is popular throughout the Chinese diaspora and appears on the menus of most Chinese restaurants abroad.\n\n
+            It is particularly popular in India, Nepal, the UK, and the US.In American Chinese cuisine, it is a stir-fried dish consisting of noodles, meat (chicken being most common but pork, beef, shrimp or tofu sometimes being substituted), onions and celery. It is often served as a specific dish at westernized Chinese restaurants. Vegetarian or vegan chow mein is also common.\n\n
+        Like many other ethnic cuisines, Chinese food can be a healthy option if you know what to look for on the menu. Chow mein noodles prepared in light oil with lots of vegetables and lean protein is a great option thats low in calories and high in nutrients.\n\n Chow Fun is the kind of cooking where you stir-fry the rice noodles with the meat (this is mostly beef but you can also use chicken, pork and seafood) of your choice and vegetables too. To prevent the noodles from sticking together the cooks make the fun wet.
+        Chow mein are Chinese stir-fried noodles with vegetables and sometimes meat or tofu; the name is a romanization of the Taishanese. The dish is popular throughout the Chinese diaspora and appears on the menus of most Chinese restaurants abroad.\n\n
+            It is particularly popular in India, Nepal, the UK, and the US.In American Chinese cuisine, it is a stir-fried dish consisting of noodles, meat (chicken being most common but pork, beef, shrimp or tofu sometimes being substituted), onions and celery. It is often served as a specific dish at westernized Chinese restaurants. Vegetarian or vegan chow mein is also common.\n\n
+        Like many other ethnic cuisines, Chinese food can be a healthy option if you know what to look for on the menu. Chow mein noodles prepared in light oil with lots of vegetables and lean protein is a great option thats low in calories and high in nutrients.\n\n Chow Fun is the kind of cooking where you stir-fry the rice noodles with the meat (this is mostly beef but you can also use chicken, pork and seafood) of your choice and vegetables too. To prevent the noodles from sticking together the cooks make the fun wet.
+
+        </string>
+    <string name="article_Pizza"><i><b>Pizza</b></i>
+        \n\n
+        Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.\n\n
+        One of the simplest and most traditional pizzas is the Margherita, which is topped with tomatoes or tomato sauce, mozzarella, and basil. Popular legend relates that it was named for Queen Margherita, wife of Umberto I, who was said to have liked its mild fresh flavour and to have also noted that its topping colours—green, white, and red—were those of the Italian flag.
+
+Italy has many variations of pizza. The Neapolitan pizza, or Naples-style pizza, is made specifically with buffalo mozzarella (produced from the milk of Italian Mediterranean buffalo) or fior di latte (mozzarella produced from the milk of prized Agerolese cows) and with San Marzano tomatoes or pomodorino vesuviano (a variety of grape tomato grown in Naples). Roman pizza often omits tomatoes (an early 16th-century import) and uses onions and olives. The Ligurian pizza resembles the pissaladière of Provence in France, adding anchovies to olives and onions. Pizza has also spread from Italy throughout much of the rest of the world, and, in regions outside of Italy, the toppings used vary with the ingredients available and the flavour profile preferred.\n\n
+        The popularity of pizza in the United States began with the Italian community in New York City, where the Neapolitan pizza had an early influence. The first pizzeria appeared in New York City about the turn of the 20th century. After World War II the pizza industry boomed. Soon there was scarcely a hamlet without a pizzeria. Sausage, bacon, ground beef, pepperoni, mushrooms, and peppers are traditional toppings familiar to many Americans, but ingredients as varied as arugula, pancetta, and truffles have found their way onto pizzas there. Variations are also often tied to different regions in the country, Chicago’s deep-dish pizza and California-style pizza among them.
+       </string>
+    <string name="chowmein">Chowmein</string>
+    <string name="pizza">Pizza</string>
+    <string name="mo_mo">Mo:Mo</string>
+
+
 </resources>

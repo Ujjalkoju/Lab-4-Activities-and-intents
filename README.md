@@ -1,5 +1,8 @@
 # Lab4: Activities and intents
-### Task3: Send data from the main Activity to the second Activity
-![](./task3a.jpg)
-![](./task3b.jpg)
+### Coding_Challenge(3 buttons and articles)
+![](./code1.jpg)
+![](./code2.jpg)
+![](./code3.jpg)
+![](./code4.jpg)
+
 

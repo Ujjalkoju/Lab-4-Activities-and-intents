@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TwoActivities">
         <activity android:name=".SecondActivity"
-            android:label = "@string/activity2_name"
+            android:label = "@string/article"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
