@@ -6,4 +6,6 @@
 ### Landscape
 ![](./hw2a.jpg)
 ![](./hw2b.jpg)
+### GIF
+![GIF](lab4Gif.gif)
 
